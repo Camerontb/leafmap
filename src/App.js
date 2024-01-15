@@ -21,7 +21,7 @@ async function fetchDataAndLog() {
 
 console.log(fetchDataAndLog())
 
-
+// fffff
 
 const defaultCenter = [1.290, 103.851];
 const defaultZoom = 11;
